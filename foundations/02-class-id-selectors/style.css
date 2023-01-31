@@ -1,0 +1,19 @@
+.oddNumEl{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#secEl{
+    color: blue;
+    font-size: 36px;
+}
+
+#thiEl{
+    font-size: 24px;
+}
+
+#fouEl{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
